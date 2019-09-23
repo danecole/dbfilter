@@ -1,0 +1,102 @@
+[{
+	"product": {
+      "id": "12345",
+      "name": "John Doe",
+      "description": "blah",
+      "attributes": {
+        "rating": "125",
+        "numberOfPoles": "4"
+		}
+	}
+},
+{
+	"product": {
+		"id": "12345",
+		"name": "John Doe",
+		"description": "blah",
+		"attributes": {
+			"rating": "125",
+			"numberOfPoles": "4"
+	  }}
+},
+{
+	"product": {
+		"id": "12345",
+		"name": "John Doe",
+		"description": "blah",
+		"attributes": {
+			"rating": "125",
+			"numberOfPoles": "4"
+	  }}
+},
+{
+	"product": {
+		"id": "12345",
+		"name": "John Doe",
+		"description": "blah",
+		"attributes": {
+			"rating": "125",
+			"numberOfPoles": "4"
+	  }}
+},
+{
+	"product": {
+		"id": "12345",
+		"name": "John Doe",
+		"description": "blah",
+		"attributes": {
+			"rating": "125",
+			"numberOfPoles": "4"
+	  }}
+},
+{
+	"product": {
+		"id": "12345",
+		"name": "John Doe",
+		"description": "blah",
+		"attributes": {
+			"rating": "125",
+			"numberOfPoles": "4"
+	  }}
+},
+{
+	"product": {
+		"id": "12345",
+		"name": "John Doe",
+		"description": "blah",
+		"attributes": {
+			"rating": "125",
+			"numberOfPoles": "4"
+	  }}
+},
+{
+	"product": {
+		"id": "12345",
+		"name": "John Doe",
+		"description": "blah",
+		"attributes": {
+			"rating": "125",
+			"numberOfPoles": "4"
+	  }}
+},
+{
+	"product": {
+		"id": "12345",
+		"name": "John Doe",
+		"description": "blah",
+		"attributes": {
+			"rating": "125",
+			"numberOfPoles": "4"
+	  }}
+},
+{
+	"product": {
+		"id": "12345",
+		"name": "John Doe",
+		"description": "blah",
+		"attributes": {
+			"rating": "125",
+			"numberOfPoles": "4"
+	  }}
+}
+]
